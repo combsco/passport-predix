@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-$ npm install github:combsco/passport-predix
+$ npm install passport-predix --save
 ```
 
 ## License
